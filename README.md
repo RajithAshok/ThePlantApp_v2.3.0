@@ -2,7 +2,7 @@
 A Full-Stack e-commerce android application built using Flutter and Firebase.
 
 
-![LoginPage](https://user-images.githubusercontent.com/64261299/210102807-ade66132-e40d-4c7c-8926-25bc7deb6105.jpg | width=100)
+![LoginPage](https://user-images.githubusercontent.com/64261299/210102807-ade66132-e40d-4c7c-8926-25bc7deb6105.jpg =250x250)
 
 
 ![Homepage](https://user-images.githubusercontent.com/64261299/210102942-59fb4aff-7762-40df-b2d3-c717aca5b7aa.jpeg)
