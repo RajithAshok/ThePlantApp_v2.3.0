@@ -1,7 +1,7 @@
 # ThePlantApp_v2.3
 A Full-Stack e-commerce android application built using Flutter and Firebase.
 
-
+<img src="https://user-images.githubusercontent.com/64261299/210102807-ade66132-e40d-4c7c-8926-25bc7deb6105.jpg" alt="LoginPage" width=200 height=400 />
 ![LoginPage](https://user-images.githubusercontent.com/64261299/210102807-ade66132-e40d-4c7c-8926-25bc7deb6105.jpg =250x250)
 
 
