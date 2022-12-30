@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Plants",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "catRef",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Name",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
