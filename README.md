@@ -1,4 +1,4 @@
-# ThePlantApp_v2.3
+# ThePlantApp_v2.3.0
 A Full-Stack e-commerce android application built using Flutter and Firebase.
 
 
