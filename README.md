@@ -1,5 +1,5 @@
 # ThePlantApp_v2.3.0
-A Full-Stack e-commerce android application built using Flutter and Firebase.<br>
+A Full-Stack e-commerce Android application built using Flutter and Firebase.<br>
 Designed with Figma.
 <br>
 <br>
